@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SimpleChartView">
+        <attr name="viewportSize" format="integer" />
+        <attr name="gridVisibility">
+            <enum name="horizontal" value="0"/>
+            <enum name="vertical" value="1"/>
+            <enum name="both" value="2"/>
+            <enum name="none" value="3"/>
+        </attr>
+    </declare-styleable>
+    <declare-styleable name="CustomTheme">
+        <attr name="simpleChartViewStyle" format="reference" />
+    </declare-styleable>
+</resources>

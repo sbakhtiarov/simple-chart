@@ -1,0 +1,5 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <integer name="graph_viewport">40</integer>
+
+    </resources>
